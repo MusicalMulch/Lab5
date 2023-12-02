@@ -1,0 +1,19 @@
+#flex-container{
+    display:flex;
+    flex-direction: row;
+}
+li{display:inline;
+    font-size:30px;
+    margin: 40px;
+    padding: 4px;
+}
+a{
+    text-decoration:none;
+}
+ul{
+    text-align:center;
+}
+nav{
+    background-color: aqua;
+    padding:10px;
+}
